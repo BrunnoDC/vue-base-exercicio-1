@@ -6,11 +6,11 @@ export default {
 </script>
 <template>
   <main id="content">
+    <NovoBloco class="alerta" />
     <NovoBloco />
+    <NovoBloco class="sla"/>
     <NovoBloco />
-    <NovoBloco />
-    <NovoBloco />
-    <NovoBloco />
-    <NovoBloco />
+    <NovoBloco class="alerta"/>
+    
   </main>
 </template>
